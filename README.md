@@ -1,5 +1,6 @@
-This fork as support for typescript files: *.tx, *tsx
+# This fork will have support for typescript files: *.tx, *tsx
 
+-----
 
 # babel-plugin-module-resolver
 [![Maintenance Status][status-image]][status-url] [![NPM version][npm-image]][npm-url] [![Build Status Linux][circleci-image]][circleci-url] [![Build Status Windows][appveyor-image]][appveyor-url] [![Coverage Status][coverage-image]][coverage-url]
