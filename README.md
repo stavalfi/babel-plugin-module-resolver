@@ -1,4 +1,8 @@
-# This fork will have support for typescript files: *.tx, *tsx
+# This fork has support for typescript files: *.tx, *tsx
+
+note: this fork did not add more tests. 
+
+PRs are welcome.
 
 -----
 
