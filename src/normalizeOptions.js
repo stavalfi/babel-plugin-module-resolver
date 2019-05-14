@@ -10,7 +10,7 @@ import { escapeRegExp } from './utils';
 import defaultResolvePath from './resolvePath';
 
 
-const defaultExtensions = ['.js', '.jsx', '.es', '.es6', '.mjs','.ts','.tsx'];
+const defaultExtensions = ['.js', '.jsx', '.es', '.es6', '.mjs','.ts','.tsx','.d.ts'];
 const defaultTransformedFunctions = [
   'require',
   'require.resolve',
